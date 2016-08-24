@@ -1,0 +1,43 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "微软雅黑";
+}
+
+body {
+    background-color: #000;
+    overflow:hidden;
+}
+
+.ig {
+    position: absolute;
+}
+
+    .ig img {
+        width: 400px;
+        border-radius:10px;
+    }
+
+#igs {
+    width: 406px;
+    height: 271px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+.con {
+    width: 250px;
+    height: 280px;
+    position: absolute;
+    top: 200px;
+    left: 530px;
+    color: #fff;
+    line-height: 40px;
+}
+
+#dmusic {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
